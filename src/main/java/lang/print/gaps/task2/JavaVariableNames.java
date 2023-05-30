@@ -10,5 +10,6 @@ public class JavaVariableNames {
         int sharpSymbol = 100000;
         int starValue = 1000000;
         int badExampleOfVarName = 1000000;
-        }
     }
+}
+
